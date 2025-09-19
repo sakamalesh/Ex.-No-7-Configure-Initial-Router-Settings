@@ -84,8 +84,9 @@ ________________________________________
 •	MOTD banner display<br>
 •	Password prompts<br>
 •	Saved configuration in NVRAM and flash<br>
-![WhatsApp Image 2025-09-19 at 08 45 48_e8578c87](https://github.com/user-attachments/assets/fb6028e0-cd76-44a7-98db-0f2ab0a2760d)
-![WhatsApp Image 2025-09-19 at 08 47 37_9a82044a](https://github.com/user-attachments/assets/bdbb471b-9f49-45a1-9753-4d20a0b1b3b4)
+<img width="1914" height="1076" alt="Screenshot 2025-09-19 084540" src="https://github.com/user-attachments/assets/cef33975-4199-49b0-8fb3-1d56299407f0" />
+<img width="1914" height="1075" alt="Screenshot 2025-09-19 084729" src="https://github.com/user-attachments/assets/cc8e1549-7fb6-4aaf-87e9-28ba9a851a05" />
+
 
 ________________________________________
 # Result

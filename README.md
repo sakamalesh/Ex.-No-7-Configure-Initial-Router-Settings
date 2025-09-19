@@ -84,6 +84,9 @@ ________________________________________
 •	MOTD banner display<br>
 •	Password prompts<br>
 •	Saved configuration in NVRAM and flash<br>
+![WhatsApp Image 2025-09-19 at 08 45 48_e8578c87](https://github.com/user-attachments/assets/fb6028e0-cd76-44a7-98db-0f2ab0a2760d)
+![WhatsApp Image 2025-09-19 at 08 47 37_9a82044a](https://github.com/user-attachments/assets/bdbb471b-9f49-45a1-9753-4d20a0b1b3b4)
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
